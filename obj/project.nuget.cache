@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vp/0RrT4WOrOWAG0ncmaTitfvivd/ofk3jRio7UgWx8RKA+ymEXoBniIYUbWkInccr97tM546GsnOIrgxPTx2A==",
+  "success": true,
+  "projectFilePath": "/Users/artempetlickij/Desktop/iTransition/task3/task3.csproj",
+  "expectedPackageFiles": [
+    "/Users/artempetlickij/.nuget/packages/consoletableext/3.1.9/consoletableext.3.1.9.nupkg.sha512",
+    "/Users/artempetlickij/.nuget/packages/consoletables/2.4.2/consoletables.2.4.2.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/artempetlickij/.nuget/packages/npgg.consoletable/1.4.2/npgg.consoletable.1.4.2.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
